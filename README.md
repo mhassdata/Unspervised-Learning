@@ -1,6 +1,6 @@
 # Unspervised-Learning
 
-##Wholesale Product Clustering Results
+## Wholesale Product Clustering Results
 This repository presents the results of applying K-Means clustering to a wholesale product dataset, providing insights into customer purchase behavior. The dataset contains customer purchase data for various product categories, with each row representing a customer and the columns indicating purchase values.
 
 The K-Means clustering identified three customer segments based on their preferences:
